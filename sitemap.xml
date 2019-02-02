@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+		<loc>http://mdc.plos.org/1.xml</loc>
+		<lastmod>2019-02-02T14:35:52+03:00</lastmod>
+</sitemap>
+<sitemap>
+		<loc>http://mdc.plos.org/2.xml</loc>
+		<lastmod>2019-02-02T14:35:52+03:00</lastmod>
+</sitemap>
+<sitemap>
+		<loc>http://mdc.plos.org/3.xml</loc>
+		<lastmod>2019-02-02T14:35:52+03:00</lastmod>
+</sitemap>
+<sitemap>
+		<loc>http://mdc.plos.org/4.xml</loc>
+		<lastmod>2019-02-02T14:35:52+03:00</lastmod>
+</sitemap>
+<sitemap>
+		<loc>http://mdc.plos.org/5.xml</loc>
+		<lastmod>2019-02-02T14:35:52+03:00</lastmod>
+</sitemap>
+<sitemap>
+		<loc>http://mdc.plos.org/6.xml</loc>
+		<lastmod>2019-02-02T14:35:52+03:00</lastmod>
+</sitemap>
+</sitemapindex>
